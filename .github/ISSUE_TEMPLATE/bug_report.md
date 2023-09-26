@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+**horororo**
+---
+1. 버그 리포트 작성
+2. 깃 허브 예제
+---
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
